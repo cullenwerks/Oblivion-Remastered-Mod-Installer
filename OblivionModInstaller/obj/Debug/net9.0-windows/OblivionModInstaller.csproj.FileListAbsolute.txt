@@ -1,0 +1,6 @@
+C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivimod-Remastered\Oblivimod-Remastered\OblivionModInstaller\obj\Debug\net9.0-windows\OblivionModInstaller.csproj.AssemblyReference.cache
+C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivimod-Remastered\Oblivimod-Remastered\OblivionModInstaller\obj\Debug\net9.0-windows\OblivionModInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivimod-Remastered\Oblivimod-Remastered\OblivionModInstaller\obj\Debug\net9.0-windows\OblivionModInstaller.AssemblyInfoInputs.cache
+C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivimod-Remastered\Oblivimod-Remastered\OblivionModInstaller\obj\Debug\net9.0-windows\OblivionModInstaller.AssemblyInfo.cs
+C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivimod-Remastered\Oblivimod-Remastered\OblivionModInstaller\obj\Debug\net9.0-windows\OblivionModInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivimod-Remastered\Oblivimod-Remastered\OblivionModInstaller\obj\Debug\net9.0-windows\OblivionModInstaller.sourcelink.json
