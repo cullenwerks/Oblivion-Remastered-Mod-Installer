@@ -19,6 +19,15 @@
           }
         }
       },
+      "FuzzySharp/2.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.1/FuzzySharp.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/FuzzySharp.dll": {}
+        }
+      },
       "Microsoft.NETCore.Platforms/2.0.0": {
         "type": "package",
         "compile": {
@@ -95,6 +104,26 @@
         "lib/netstandard2.0/Aspose.Zip.dll",
         "lib/netstandard2.0/Aspose.Zip.xml",
         "lib/readme.txt"
+      ]
+    },
+    "FuzzySharp/2.0.2": {
+      "sha512": "sBKqWxw3g//peYxDZ8JipRlyPbIyBtgzqBVA5GqwHVeqtIrw75maGXAllztf+1aJhchD+drcQIgf2mFho8ZV8A==",
+      "type": "package",
+      "path": "fuzzysharp/2.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fuzzysharp.2.0.2.nupkg.sha512",
+        "fuzzysharp.nuspec",
+        "lib/net45/FuzzySharp.dll",
+        "lib/net46/FuzzySharp.dll",
+        "lib/net461/FuzzySharp.dll",
+        "lib/netcoreapp2.0/FuzzySharp.dll",
+        "lib/netcoreapp2.1/FuzzySharp.dll",
+        "lib/netstandard1.6/FuzzySharp.dll",
+        "lib/netstandard2.0/FuzzySharp.dll",
+        "lib/netstandard2.1/FuzzySharp.dll"
       ]
     },
     "Microsoft.NETCore.Platforms/2.0.0": {
@@ -223,7 +252,8 @@
   },
   "projectFileDependencyGroups": {
     "net9.0-windows7.0": [
-      "Aspose.Zip >= 25.5.0"
+      "Aspose.Zip >= 25.5.0",
+      "FuzzySharp >= 2.0.2"
     ]
   },
   "packageFolders": {
@@ -272,6 +302,10 @@
           "Aspose.Zip": {
             "target": "Package",
             "version": "[25.5.0, )"
+          },
+          "FuzzySharp": {
+            "target": "Package",
+            "version": "[2.0.2, )"
           }
         },
         "imports": [
