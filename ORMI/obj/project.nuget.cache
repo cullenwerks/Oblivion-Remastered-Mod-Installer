@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CKdN1pnl6iU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Culle\\Documents\\Git Projects\\Games\\Oblivion\\Oblivion-Remastered-Mod-Installer\\ORMI\\ORMIInstaller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Culle\\.nuget\\packages\\aspose.zip\\25.5.0\\aspose.zip.25.5.0.nupkg.sha512",
+    "C:\\Users\\Culle\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Culle\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Culle\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Culle\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
