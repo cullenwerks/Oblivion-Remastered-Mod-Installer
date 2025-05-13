@@ -58,7 +58,7 @@ To run ORMI, you’ll need:
 ## 🛠️ Installation
 
 1. **Download ORMI**:
-   - Grab the latest release from the [Releases](https://github.com/yourusername/ORMI/releases) page or clone this repository:
+   - Grab the latest release from the [Releases](https://github.com/cullenwerks/Oblivion-Remastered-Mod-Installer/releases) page or clone this repository:
      ```bash
      git clone https://github.com/yourusername/ORMI.git
      ```
@@ -127,7 +127,7 @@ To run ORMI, you’ll need:
 
 - **UI Issues**:
   - If controls don’t render, ensure `SetupForm` is correctly initializing the UI.
-  - Report issues to the [Issues](https://github.com/yourusername/ORMI/issues) page.
+  - Report issues to the [Issues]((https://github.com/cullenwerks/Oblivion-Remastered-Mod-Installer/issues)) page.
 
 - **Batch Script Errors**:
   - Ensure `Oblivion Remastered Mod Installer.bat` exists one directory above ORMI’s executable.
@@ -152,7 +152,7 @@ Ideas for contributions:
 
 Hey Redditors! We’re excited to have thousands of you testing ORMI. Here’s how you can help:
 - **Test Mod Installation**: Try installing various `.esp`, `.pak`, and `.dll` mods, with and without custom instructions.
-- **Report Bugs**: Post issues to the [Issues](https://github.com/yourusername/ORMI/issues) page or comment on our Reddit thread.
+- **Report Bugs**: Post issues to the [Issues](https://github.com/cullenwerks/Oblivion-Remastered-Mod-Installer/issues) page or comment on our Reddit thread.
 - **Share Feedback**: Let us know what works, what doesn’t, and what features you’d love to see (e.g., mod load order management).
 - **Showcase Mods**: Share screenshots or videos of your modded Oblivion setups using ORMI!
 
