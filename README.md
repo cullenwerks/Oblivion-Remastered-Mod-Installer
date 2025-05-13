@@ -2,6 +2,9 @@
 
 Welcome to the **Oblivion Remastered Mod Installer (ORMI)**, a powerful and user-friendly tool designed to simplify mod management for *The Elder Scrolls IV: Oblivion Remastered*. Whether you're a seasoned modder or new to the Tamriel modding scene, ORMI makes installing, managing, and removing mods a breeze—no Nexus API required! Built with love for the Reddit modding community, ORMI is ready for you to test and enhance your Oblivion experience.
 
+# DISCLAIMER
+This is very Alpha at the moment, it's lacking features mentioned from Reddit and those will be added in over the next week. Please backup your Oblivion Installation if you'd like to test this for me. Tons of things subject to change including the UI and additonal OS's to boot this program from. -CPG
+
 ## 🚀 Features
 
 ORMI is packed with features to streamline your modding workflow:
