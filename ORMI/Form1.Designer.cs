@@ -1,4 +1,4 @@
-﻿namespace OblivionModInstaller;
+﻿namespace ORMI;
 
 partial class Form1
 {

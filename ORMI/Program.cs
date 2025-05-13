@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace OblivionModInstaller
+namespace ORMI
 {
     static class Program
     {

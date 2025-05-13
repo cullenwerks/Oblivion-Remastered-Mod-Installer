@@ -16,7 +16,7 @@ using FuzzySharp; // For fuzzy matching mod names
 using System.Net.Http;
 using System.Linq;
 
-namespace OblivionModInstaller
+namespace ORMI
 {
     public partial class Form1 : Form
     {
@@ -41,8 +41,8 @@ namespace OblivionModInstaller
         private Dictionary<string, List<string>> modFiles;
         private System.Windows.Forms.Timer? animationTimer;
         private float buttonScale = 1.0f;
-        private const string ConfigFilePath = "OblivionModInstallerConfig.json";
-        private const string LogFilePath = "OblivionModInstaller.log";
+        private const string ConfigFilePath = "ORMIConfig.json";
+        private const string LogFilePath = "ORMI.log";
         private const string AppVersion = "1.0.0";
 
         // Nexus Mods API integration
