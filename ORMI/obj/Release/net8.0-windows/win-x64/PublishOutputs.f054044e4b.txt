@@ -1,0 +1,2 @@
+C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivion-Remastered-Mod-Installer\publish\ORMIInstaller.pdb
+C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivion-Remastered-Mod-Installer\publish\ORMIInstaller.exe

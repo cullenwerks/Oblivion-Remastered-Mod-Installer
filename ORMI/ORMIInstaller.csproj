@@ -5,6 +5,16 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <!-- Enable single-file publishing -->
+    <PublishSingleFile>true</PublishSingleFile>
+    <!-- Include .NET runtime for self-contained deployment -->
+    <SelfContained>true</SelfContained>
+    <!-- Include native libraries for extraction -->
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <!-- Disable trimming to support Windows Forms -->
+    <PublishTrimmed>false</PublishTrimmed>
+    <!-- Specify runtime identifier for Windows 64-bit -->
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Aspose.Zip" Version="25.5.0" />
