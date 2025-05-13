@@ -122,7 +122,7 @@ namespace ORMI
             var helpMenu = new ToolStripMenuItem("Help");
             var aboutItem = new ToolStripMenuItem("About");
 #pragma warning disable CS8622
-            aboutItem.Click += (s, e) => MessageBox.Show($"Oblivion Remastered Mod Installer v{AppVersion}\nA tool to manage mods for Oblivion Remastered.\nBuilt with love by Grok.", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            aboutItem.Click += (s, e) => MessageBox.Show($"Oblivion Remastered Mod Installer v{AppVersion}\nA tool to manage mods for Oblivion Remastered.\n", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
 #pragma warning restore CS8622
             helpMenu.DropDownItems.Add(aboutItem);
             menuStrip.Items.Add(helpMenu);
