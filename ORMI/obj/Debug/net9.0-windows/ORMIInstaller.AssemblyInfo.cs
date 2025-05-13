@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ORMIInstaller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a18048d2f724b05d35fee1306413c025592a083")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf6a5adc24a246a9f95c79b19643dd1798dc9586")]
 [assembly: System.Reflection.AssemblyProductAttribute("ORMIInstaller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ORMIInstaller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
