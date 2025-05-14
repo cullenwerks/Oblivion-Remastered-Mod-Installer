@@ -30,10 +30,6 @@ ORMI is packed with features to streamline your modding workflow:
   - Remove mods with one click, deleting associated files and updating `plugins.txt`.
   - Refresh the mod list to reflect changes in the game directory.
 
-- **Batch Installer Support**:
-  - Run a custom batch script (`Oblivion Remastered Mod Installer.bat`) after installation to handle additional setup tasks.
-  - Configurable via `batchScriptPath` in the code.
-
 - **Dynamic Theme Support**:
   - Automatically adapts to your system’s light or dark theme for a seamless UI experience.
   - Modern, intuitive interface with tooltips and a help menu for guidance.
