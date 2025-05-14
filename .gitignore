@@ -1,0 +1,4 @@
+bin/
+obj/
+.avalonia-build-tasks
+publish/
