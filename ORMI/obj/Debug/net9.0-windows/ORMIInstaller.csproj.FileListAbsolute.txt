@@ -1,6 +1,0 @@
-C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivion-Remastered-Mod-Installer\ORMI\obj\Debug\net9.0-windows\ORMIInstaller.csproj.AssemblyReference.cache
-C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivion-Remastered-Mod-Installer\ORMI\obj\Debug\net9.0-windows\ORMIInstaller.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivion-Remastered-Mod-Installer\ORMI\obj\Debug\net9.0-windows\ORMIInstaller.AssemblyInfoInputs.cache
-C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivion-Remastered-Mod-Installer\ORMI\obj\Debug\net9.0-windows\ORMIInstaller.AssemblyInfo.cs
-C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivion-Remastered-Mod-Installer\ORMI\obj\Debug\net9.0-windows\ORMIInstaller.csproj.CoreCompileInputs.cache
-C:\Users\Culle\Documents\Git Projects\Games\Oblivion\Oblivion-Remastered-Mod-Installer\ORMI\obj\Debug\net9.0-windows\ORMIInstaller.sourcelink.json
